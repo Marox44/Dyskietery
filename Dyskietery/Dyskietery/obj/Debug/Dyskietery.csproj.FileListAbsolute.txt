@@ -1,0 +1,27 @@
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\bin\Debug\Dyskietery.exe
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\bin\Debug\Dyskietery.pdb
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\obj\Debug\Dyskietery.csprojResolveAssemblyReference.cache
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\obj\Debug\Dyskietery.Form1.resources
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\obj\Debug\Dyskietery.Properties.Resources.resources
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\obj\Debug\Dyskietery.csproj.GenerateResource.Cache
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\obj\Debug\Dyskietery.exe
+c:\users\tokajo\documents\visual studio 11\Projects\Dyskietery\Dyskietery\obj\Debug\Dyskietery.pdb
+D:\program\Dyskietery\Dyskietery\obj\Debug\Dyskietery.exe
+D:\program\Dyskietery\Dyskietery\obj\Debug\Dyskietery.pdb
+D:\program\Dyskietery\Dyskietery\bin\Debug\Dyskietery.exe
+D:\program\Dyskietery\Dyskietery\bin\Debug\Dyskietery.pdb
+D:\program\Dyskietery\Dyskietery\obj\Debug\Dyskietery.csprojResolveAssemblyReference.cache
+D:\program\Dyskietery\Dyskietery\obj\Debug\Dyskietery.Form1.resources
+D:\program\Dyskietery\Dyskietery\obj\Debug\Dyskietery.Properties.Resources.resources
+D:\program\Dyskietery\Dyskietery\obj\Debug\Dyskietery.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Debug\Dyskietery.exe
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Debug\Dyskietery.pdb
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Debug\Dyskietery.exe
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Debug\Dyskietery.pdb
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Debug\Dyskietery.Form1.resources
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Debug\Dyskietery.Properties.Resources.resources
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Debug\Dyskietery.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Debug\Dyskietery.exe.config
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Debug\Dyskietery.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Debug\MaroxLib CS.dll
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Debug\MaroxLib CS.pdb

@@ -1,0 +1,19 @@
+D:\program\Dyskietery\Dyskietery\bin\Release\Dyskietery.exe
+D:\program\Dyskietery\Dyskietery\bin\Release\Dyskietery.pdb
+D:\program\Dyskietery\Dyskietery\obj\Release\Dyskietery.csprojResolveAssemblyReference.cache
+D:\program\Dyskietery\Dyskietery\obj\Release\Dyskietery.Form1.resources
+D:\program\Dyskietery\Dyskietery\obj\Release\Dyskietery.Properties.Resources.resources
+D:\program\Dyskietery\Dyskietery\obj\Release\Dyskietery.csproj.GenerateResource.Cache
+D:\program\Dyskietery\Dyskietery\obj\Release\Dyskietery.exe
+D:\program\Dyskietery\Dyskietery\obj\Release\Dyskietery.pdb
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Release\Dyskietery.exe
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Release\Dyskietery.pdb
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Release\Dyskietery.exe
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Release\Dyskietery.pdb
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Release\Dyskietery.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Release\Dyskietery.Form1.resources
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Release\Dyskietery.Properties.Resources.resources
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\obj\Release\Dyskietery.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Release\Dyskietery.exe.config
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Release\MaroxLib CS.dll
+C:\Users\Marek\Desktop\Dyskietery\Dyskietery\Dyskietery\bin\Release\MaroxLib CS.pdb
